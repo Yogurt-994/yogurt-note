@@ -1,0 +1,9 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#000000",
+        "titleBar.activeBackground": "#080808",
+        "titleBar.activeForeground": "#FBF9FE"
+    },
+    "workbench.iconTheme":"office-material-icon-theme",
+    "foam.openDailyNote.directory": "D:Note/Yogurt的笔记/日记",
+}
