@@ -4,6 +4,8 @@
         "titleBar.activeBackground": "#080808",
         "titleBar.activeForeground": "#FBF9FE"
     },
+    "workbench.colorTheme": "One Dark Pro Darker",
     "workbench.iconTheme":"vscode-great-icons",
     "foam.openDailyNote.directory": "D:Note/Yogurt的笔记/日记",
+    "cSpell.language": "en,en-US",
 }
