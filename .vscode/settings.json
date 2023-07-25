@@ -4,6 +4,6 @@
         "titleBar.activeBackground": "#080808",
         "titleBar.activeForeground": "#FBF9FE"
     },
-    "workbench.iconTheme":"office-material-icon-theme",
+    "workbench.iconTheme":"vscode-great-icons",
     "foam.openDailyNote.directory": "D:Note/Yogurt的笔记/日记",
 }
