@@ -1,0 +1,12 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#000000",
+        "titleBar.activeBackground": "#080808",
+        "titleBar.activeForeground": "#FBF9FE"
+    },
+    "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
+    "workbench.iconTheme":"vscode-great-icons",
+    "foam.openDailyNote.directory": "D:Note/Yogurt的笔记/日记/2023/08-八月",
+    "Notes.notesLocation": "D:/Note/Yogurt的笔记/日记/2023/08-八月",
+    "cSpell.language": "en,en-US",
+}

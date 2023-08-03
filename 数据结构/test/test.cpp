@@ -27,7 +27,7 @@ int FindNum(int a[], int num, int i, int n)
 {
     if (i < n && a[i] != num)             // 递归终止条件
         return FindNum(a, num, i + 1, n); // 递归部分
-    if (i == n)                          
+    if (i == n)
         return -1;
     return i;
 }
